@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
 
-    cout<<"Hello Wdwrld\nHi Everyone!!\n hellewllllllooooccsa";
-    cout<<"\nbeautifuledorld\n heeeeedwlllllllo";
-    cout<<"\n adding morede lines";
+    cout<<"Hello World\nHi Everyone!!\n hellllllllllooooccsa";
+    cout<<"\nbeautiful World\n heeeeellllllllo";
+    cout<<"\n adding more lines";
 
     return 0;
 }
